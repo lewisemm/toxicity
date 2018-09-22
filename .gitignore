@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @lewisemm Sign out
-0
-0 0 lewisemm/pybald-playground
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-pybald-playground/.gitignore
-09a9c09  8 days ago
-@lewisemm lewisemm (chore) Ignore exported environment values
-     
-108 lines (86 sloc)  1.21 KB
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -122,3 +105,6 @@ venv.bak/
 
 # ignore environment exports
 .envrc
+
+# editor settings folder
+.vscode/
